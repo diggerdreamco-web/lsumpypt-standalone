@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /functions/
+
+Sitemap: https://lsumpypt.teratakniaga.com/sitemap.xml
